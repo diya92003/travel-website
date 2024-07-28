@@ -1,0 +1,32 @@
+.tour_content img{
+    width:100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.tour_info,
+.tour_reviews,
+.booking_info{
+    padding-top: 15px ;
+    padding-left:30px;
+    padding-right:30px;
+    border: 1px solid lightgray;
+    border-radius: 10px;
+}
+.tour_info span{
+    color: var(--text-color);
+}
+.review_input{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding:10px;
+    border: 1px solid lightgray;
+    border-radius: 50px;
+}
+.review_input input{
+    border: none;
+}
+.review_input input:focus{
+    outline: none;
+}

@@ -1,0 +1,9 @@
+.lrbackg{
+    margin: 0;
+    padding-top: 0;
+    padding-bottom: 70px;
+    background: url("https://png.pngtree.com/background/20210709/original/pngtree-jane-style-national-day-long-vacation-travel-picture-image_926845.jpg") no-repeat center ;
+    background-size: cover;
+    min-width: 100%;
+    min-height: 200px;
+}
